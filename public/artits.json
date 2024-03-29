@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/speaker/speaker_1.jpg",
+        "profession": "Software Engineer"
+    },
+    {
+        "id": 2,
+        "image": "assets/images/speaker/speaker_2.jpg",
+        "profession": "Data Scientist"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/speaker/speaker_3.jpg",
+
+        "profession": "UX Designer"
+    },
+    {
+        "id": 4,
+        "image": "assets/images/speaker/speaker_4.jpg",
+
+        "profession": "Network Engineer"
+    },
+    {
+        "id": 5,
+        "image": "assets/images/speaker/speaker_5.jpg",
+        "profession": "Digital Marketer"
+    },
+    {
+        "id": 6,
+        "image": "assets/images/speaker/speaker_6.jpg",
+        "profession": "Graphic Designer"
+    },
+    {
+        "id": 7,
+        "image": "assets/images/speaker/speaker_7.jpg",
+        "profession": "Product Manager"
+    },
+    {
+        "id": 8,
+        "image": "assets/images/speaker/speaker_8.jpg",
+        "profession": "Cybersecurity Analyst"
+    }
+]

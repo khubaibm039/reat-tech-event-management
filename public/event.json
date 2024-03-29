@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "image": "https://ibb.co/nmN7C7m",
+        "conference_date": "2024-04-15",
+        "conference_time": "09:00 AM - 05:00 PM",
+        "location": "Tech Hub Convention Center, San Francisco, CA",
+        "name": "Tech Summit 2024",
+        "details": "Tech Summit 2024 is an annual gathering of tech enthusiasts, entrepreneurs, and professionals. Join us for a day filled with insightful talks, workshops, and networking opportunities. This year's summit will cover a wide range of topics including artificial intelligence, blockchain technology, cybersecurity, cloud computing, and more. Whether you're a seasoned industry expert or just starting your tech journey, Tech Summit 2024 offers something for everyone. Engage in lively discussions with thought leaders, participate in hands-on workshops to sharpen your skills, and connect with like-minded individuals from around the world. Don't miss this opportunity to stay updated on the latest trends and innovations shaping the future of technology."
+    },
+    {
+        "id": 2,
+        "image": "https://ibb.co/tbKVvKW",
+        "conference_date": "2024-05-20",
+        "conference_time": "10:00 AM - 06:00 PM",
+        "location": "Tech Expo Center, New York, NY",
+        "name": "FutureTech Expo",
+        "details": "FutureTech Expo is the premier event for showcasing the latest innovations in technology. Explore the exhibition floor to see demos of groundbreaking products and services, attend talks by industry leaders, and connect with like-minded professionals. This year, FutureTech Expo will focus on emerging technologies such as quantum computing, augmented reality, Internet of Things (IoT), and sustainable tech solutions. Whether you're an investor looking for the next big thing or a developer eager to learn about cutting-edge tools, FutureTech Expo has something for you. Join us to be at the forefront of technological advancement and network with experts who are shaping the future."
+    },
+    {
+        "id": 3,
+        "image": "https://ibb.co/nQwvp7M",
+        "conference_date": "2024-06-25",
+        "conference_time": "09:30 AM - 04:30 PM",
+        "location": "Tech Innovation Center, Seattle, WA",
+        "name": "InnovateTech Conference",
+        "details": "Join us at InnovateTech Conference to explore the latest trends and innovations in the tech industry. This conference brings together leading experts and innovators to share their insights and experiences. From artificial intelligence and machine learning to cybersecurity and digital transformation, InnovateTech Conference covers a wide range of topics crucial for businesses and individuals in today's rapidly evolving tech landscape. Attend keynote presentations by industry pioneers, participate in interactive panel discussions, and connect with peers during networking sessions. Whether you're a startup founder seeking inspiration, a tech professional looking to expand your knowledge, or an investor scouting for promising ventures, InnovateTech Conference offers invaluable opportunities to learn, collaborate, and thrive in the digital age."
+    },
+    {
+        "id": 4,
+        "image": "https://ibb.co/0Gnp623",
+        "conference_date": "2024-07-10",
+        "conference_time": "10:00 AM - 05:00 PM",
+        "location": "Digital Innovation Hub, Austin, TX",
+        "name": "Digital Transformation Summit",
+        "details": "Digital Transformation Summit is dedicated to exploring the strategies and technologies driving digital innovation across industries. Join us for engaging discussions, hands-on workshops, and networking sessions with industry leaders and experts. This year's summit will delve into key themes such as data analytics, artificial intelligence, agile methodologies, and customer experience optimization. Whether you're leading a digital transformation initiative in your organization or seeking to stay ahead of the curve, Digital Transformation Summit equips you with the knowledge and tools to navigate the evolving digital landscape successfully. Don't miss this opportunity to connect with peers, learn from top practitioners, and gain actionable insights to drive meaningful change in your business."
+    },
+    {
+        "id": 5,
+        "image": "https://ibb.co/5110Fg0",
+        "conference_date": "2024-08-15",
+        "conference_time": "11:00 AM - 07:00 PM",
+        "location": "Tech Nexus, Chicago, IL",
+        "name": "TechCon Chicago 2024",
+        "details": "TechCon Chicago 2024 is the Midwest's premier tech event, bringing together industry professionals, innovators, and enthusiasts. Explore the latest trends in technology, attend expert-led sessions, and connect with peers from across the region. This year's conference will feature tracks on software development, cybersecurity, cloud computing, and emerging technologies such as blockchain and quantum computing. Whether you're a seasoned IT professional looking to stay updated on industry trends or a tech enthusiast eager to explore new opportunities, TechCon Chicago 2024 offers a diverse range of sessions and networking opportunities to suit your interests. Join us for a day of learning, inspiration, and collaboration as we explore the possibilities of technology together."
+    },
+    {
+        "id": 6,
+        "image": "https://ibb.co/MVZrGgX",
+        "conference_date": "2024-09-20",
+        "conference_time": "09:00 AM - 06:00 PM",
+        "location": "Tech Hub Convention Center, San Francisco, CA",
+        "name": "AI & Robotics Summit",
+        "details": "The AI & Robotics Summit is a convergence of leading experts, researchers, and industry professionals in the fields of artificial intelligence and robotics. Hosted in the heart of Silicon Valley, this summit offers unparalleled insights into the latest advancements and applications of AI and robotics across various industries. From autonomous vehicles and smart manufacturing to healthcare robotics and human-robot interaction, the summit covers a diverse range of topics shaping the future of technology. Join us for engaging keynotes, interactive panel discussions, and hands-on workshops to explore the transformative potential of AI and robotics. Whether you're a seasoned professional or a curious newcomer, the AI & Robotics Summit provides a unique platform to exchange ideas, collaborate on projects, and envision the future of intelligent machines."
+    },
+    {
+        "id": 7,
+        "image": "https://ibb.co/m54RBVx",
+        "conference_date": "2024-10-25",
+        "conference_time": "10:00 AM - 05:00 PM",
+        "location": "Tech Expo Center, Los Angeles, CA",
+        "name": "Data Science Symposium",
+        "details": "The Data Science Symposium is a premier gathering of data scientists, analysts, and industry leaders to explore the latest trends and developments in data science and analytics. Held in the vibrant city of Los Angeles, this symposium offers a unique opportunity to learn from leading experts, engage in insightful discussions, and network with peers from diverse industries. From machine learning and predictive analytics to big data infrastructure and data visualization, the symposium covers a wide spectrum of topics relevant to data professionals. Join us for keynote presentations, technical workshops, and networking sessions to gain practical insights and expand your professional network. Whether you're an experienced data scientist or just starting your journey in the field, the Data Science Symposium provides a stimulating environment to grow your skills and stay ahead in this rapidly evolving field."
+    },
+    {
+        "id": 8,
+        "image": "https://ibb.co/4JvJccS",
+        "conference_date": "2024-11-15",
+        "conference_time": "09:30 AM - 04:30 PM",
+        "location": "Tech Innovation Center, Boston, MA",
+        "name": "Cybersecurity Summit",
+        "details": "The Cybersecurity Summit is a must-attend event for cybersecurity professionals, IT leaders, and executives concerned with protecting their organizations from cyber threats. Hosted in the historic city of Boston, this summit brings together top cybersecurity experts, thought leaders, and solution providers to discuss the latest trends, strategies, and best practices in cybersecurity. From threat intelligence and incident response to cloud security and risk management, the summit covers a wide range of topics relevant to today's cybersecurity landscape. Attend informative sessions, participate in hands-on workshops, and network with industry peers to gain valuable insights and practical knowledge to secure your organization against cyber threats. Whether you're a CISO looking to enhance your cybersecurity posture or a security practitioner seeking to stay updated on emerging threats, the Cybersecurity Summit offers a comprehensive learning experience to help you navigate the complex challenges of cybersecurity."
+    },
+    {
+        "id": 9,
+        "image": "https://ibb.co/CMdjC3R",
+        "conference_date": "2024-12-10",
+        "conference_time": "10:00 AM - 06:00 PM",
+        "location": "Digital Innovation Hub, San Jose, CA",
+        "name": "Blockchain Expo",
+        "details": "The Blockchain Expo is the world's largest blockchain conference and exhibition, bringing together industry leaders, innovators, and enthusiasts to explore the transformative potential of blockchain technology. Hosted in the heart of Silicon Valley, this expo features keynote presentations, panel discussions, and interactive workshops covering a wide range of topics, including decentralized finance, supply chain management, digital identity, and tokenization. Whether you're a blockchain developer, investor, or enterprise leader, the Blockchain Expo offers valuable insights into the latest trends, use cases, and adoption strategies in blockchain technology. Network with peers, meet leading blockchain projects, and discover new opportunities to leverage blockchain for innovation and growth. Join us at the Blockchain Expo to be at the forefront of the blockchain revolution and shape the future of decentralized technology."
+    },
+    {
+        "id": 10,
+        "image": "https://ibb.co/ScsTz0w",
+        "conference_date": "2025-01-20",
+        "conference_time": "11:00 AM - 07:00 PM",
+        "location": "Tech Nexus, Seattle, WA",
+        "name": "Tech Startup Summit",
+        "details": "The Tech Startup Summit is a premier event for aspiring entrepreneurs, startup founders, and investors to connect, learn, and collaborate in the vibrant startup ecosystem. Hosted in the innovative city of Seattle, this summit features keynote presentations, pitch competitions, investor panels, and networking opportunities designed to empower startups and fuel innovation. Whether you're looking to launch your startup, raise funding, or scale your business, the Tech Startup Summit provides valuable resources, mentorship, and networking connections to accelerate your entrepreneurial journey. Join us to learn from successful founders, meet potential investors, and connect with like-minded entrepreneurs who are shaping the future of technology startups. Don't miss this opportunity to turn your startup vision into reality at the Tech Startup Summit."
+    },
+    {
+        "id": 11,
+        "image": "https://ibb.co/gdz7Rxb",
+        "conference_date": "2025-02-15",
+        "conference_time": "10:00 AM - 05:00 PM",
+        "location": "Tech Expo Center, Miami, FL",
+        "name": "Virtual Reality Summit",
+        "details": "The Virtual Reality Summit is a gathering of VR enthusiasts, developers, and industry leaders to explore the latest advancements and applications of virtual reality technology. Hosted in the vibrant city of Miami, this summit offers a unique opportunity to experience cutting-edge VR experiences, attend insightful talks, and network with peers from the VR community. From immersive gaming and entertainment to enterprise applications and healthcare solutions, the summit covers a wide range of topics relevant to the rapidly evolving VR landscape. Join us to discover the future of virtual reality, connect with leading VR developers, and explore new opportunities to leverage VR technology for innovation and growth. Whether you're a VR enthusiast, developer, or industry professional, the Virtual Reality Summit provides a stimulating environment to learn, collaborate, and shape the future of VR."
+    },
+    {
+        "id": 12,
+        "image": "https://ibb.co/WW5h2j5",
+        "conference_date": "2025-03-20",
+        "conference_time": "09:00 AM - 06:00 PM",
+        "location": "Tech Hub Convention Center, San Francisco, CA",
+        "name": "Big Data Conference",
+        "details": "The Big Data Conference is a premier event for data professionals, analysts, and industry leaders to explore the latest trends and innovations in big data and analytics. Hosted in the heart of Silicon Valley, this conference features keynote presentations, technical workshops, and networking opportunities designed to empower attendees with practical insights and strategies for leveraging big data effectively. Whether you're interested in data engineering, data science, or business intelligence, the Big Data Conference covers a wide range of topics relevant to today's data-driven organizations. Join us to learn from leading experts, connect with peers, and discover new tools and techniques for extracting value from your data. Don't miss this opportunity to stay ahead in the rapidly evolving field of big data and analytics at the Big Data Conference."
+    },
+    {
+        "id": 13,
+        "image": "https://ibb.co/dGwTKd6",
+        "conference_date": "2025-04-25",
+        "conference_time": "10:00 AM - 05:00 PM",
+        "location": "Tech Innovation Center, Boston, MA",
+        "name": "Cloud Computing Summit",
+        "details": "The Cloud Computing Summit is a gathering of cloud experts, IT professionals, and business leaders to explore the latest trends and innovations in cloud computing. Hosted in the dynamic city of Boston, this summit offers a unique opportunity to learn from leading cloud providers, industry analysts, and technology innovators. From hybrid cloud strategies and multicloud deployments to serverless computing and containerization, the summit covers a wide range of topics relevant to today's cloud-centric businesses. Join us for keynote presentations, hands-on workshops, and networking sessions to gain practical insights and best practices for leveraging cloud technology effectively. Whether you're migrating to the cloud, optimizing your cloud infrastructure, or exploring new cloud-native solutions, the Cloud Computing Summit provides the knowledge and resources you need to succeed in the cloud era."
+    },
+    {
+        "id": 14,
+        "image": "https://ibb.co/4MVwmxn",
+        "conference_date": "2025-05-20",
+        "conference_time": "09:30 AM - 04:30 PM",
+        "location": "Tech Nexus, Chicago, IL",
+        "name": "Artificial Intelligence Conference",
+        "details": "The Artificial Intelligence Conference is a premier event for AI practitioners, researchers, and industry leaders to explore the latest advancements and applications of artificial intelligence. Hosted in the vibrant city of Chicago, this conference offers a unique opportunity to learn from leading AI experts, engage in hands-on workshops, and network with peers from the AI community. From machine learning and natural language processing to computer vision and robotics, the conference covers a wide range of AI topics shaping the future of technology. Join us for keynote presentations, technical sessions, and panel discussions to gain practical insights and best practices for implementing AI solutions in your organization. Whether you're a data scientist, AI engineer, or business leader, the Artificial Intelligence Conference provides the knowledge and inspiration you need to drive innovation and succeed in the age of AI."
+    },
+    {
+        "id": 15,
+        "image": "https://ibb.co/DksBLn0",
+        "conference_date": "2025-06-15",
+        "conference_time": "10:00 AM - 06:00 PM",
+        "location": "Tech Expo Center, Seattle, WA",
+        "name": "IoT World Conference",
+        "details": "The IoT World Conference is the leading event for IoT professionals, innovators, and industry leaders to explore the latest trends and technologies in the Internet of Things. Hosted in the innovative city of Seattle, this conference offers a unique opportunity to learn from leading IoT experts, connect with peers, and discover new IoT solutions shaping the future of technology. From smart cities and connected devices to industrial IoT and edge computing, the conference covers a wide range of topics relevant to IoT professionals. Join us for keynote presentations, technical sessions, and interactive demos to gain practical insights and best practices for implementing IoT solutions in your organization. Whether you're a software developer, IoT architect, or business leader, the IoT World Conference provides the knowledge and networking opportunities you need to drive innovation and succeed in the IoT landscape."
+    },
+    {
+        "id": 16,
+        "image": "https://ibb.co/tYW7WLJ",
+        "conference_date": "2025-07-20",
+        "conference_time": "09:00 AM - 05:00 PM",
+        "location": "Digital Innovation Hub, San Francisco, CA",
+        "name": "DevOps Summit",
+        "details": "The DevOps Summit is a premier event for DevOps practitioners, IT leaders, and software engineers to explore the latest trends and best practices in DevOps and continuous delivery. Hosted in the heart of Silicon Valley, this summit offers a unique opportunity to learn from leading DevOps experts, engage in hands-on workshops, and network with peers from the DevOps community. From agile methodologies and infrastructure as code to automated testing and CI/CD pipelines, the summit covers a wide range of topics relevant to modern software development and operations. Join us for keynote presentations, technical sessions, and panel discussions to gain practical insights and best practices for implementing DevOps in your organization. Whether you're a DevOps engineer, IT manager, or software developer, the DevOps Summit provides the knowledge and inspiration you need to drive innovation and succeed in the era of continuous delivery."
+    },
+    {
+        "id": 17,
+        "image": "https://ibb.co/VWbK42T",
+        "conference_date": "2025-08-25",
+        "conference_time": "10:00 AM - 06:00 PM",
+        "location": "Tech Nexus, New York, NY",
+        "name": "AR & VR Expo",
+        "details": "The AR & VR Expo is the premier event for augmented reality and virtual reality enthusiasts, developers, and industry leaders to explore the latest advancements and applications of AR and VR technology. Hosted in the bustling city of New York, this expo offers a unique opportunity to experience cutting-edge AR and VR experiences, attend insightful talks, and network with peers from the AR and VR community. From immersive gaming and entertainment to enterprise applications and training simulations, the expo covers a wide range of topics relevant to the rapidly evolving AR and VR landscape. Join us to discover the future of augmented reality and virtual reality, connect with leading AR and VR developers, and explore new opportunities to leverage AR and VR technology for innovation and growth. Whether you're an AR enthusiast, VR developer, or industry professional, the AR & VR Expo provides a stimulating environment to learn, collaborate, and shape the future of AR and VR."
+    },
+    {
+        "id": 18,
+        "image": "https://example.com/event_image18.jpg",
+        "conference_date": "2025-09-20",
+        "conference_time": "09:30 AM - 04:30 PM",
+        "location": "https://ibb.co/wQFfk7C",
+        "name": "Edge Computing Summit",
+        "details": "The Edge Computing Summit is a gathering of edge computing experts, IoT professionals, and industry leaders to explore the latest trends and innovations in edge computing technology. Hosted in the dynamic city of Austin, this summit offers a unique opportunity to learn from leading edge computing providers, engage in hands-on workshops, and network with peers from the edge computing community. From edge AI and edge analytics to edge security and edge-native applications, the summit covers a wide range of topics relevant to edge computing professionals. Join us for keynote presentations, technical sessions, and panel discussions to gain practical insights and best practices for implementing edge computing solutions in your organization. Whether you're an IoT architect, edge developer, or business leader, the Edge Computing Summit provides the knowledge and networking opportunities you need to drive innovation and succeed in the edge computing landscape."
+    },
+    {
+        "id": 19,
+        "image": "https://ibb.co/1bBXmzr",
+        "conference_date": "2025-10-15",
+        "conference_time": "10:00 AM - 05:00 PM",
+        "location": "Digital Innovation Hub, Boston, MA",
+        "name": "Quantum Computing Conference",
+        "details": "The Quantum Computing Conference is the leading event for quantum computing enthusiasts, researchers, and industry leaders to explore the latest advancements and applications of quantum computing technology. Hosted in the historic city of Boston, this conference offers a unique opportunity to learn from leading quantum computing experts, engage in hands-on workshops, and network with peers from the quantum computing community. From quantum algorithms and qubit technologies to quantum cryptography and quantum simulation, the conference covers a wide range of topics shaping the future of quantum computing. Join us for keynote presentations, technical sessions, and panel discussions to gain practical insights and best practices for harnessing the power of quantum computing. Whether you're a quantum physicist, software developer, or business leader, the Quantum Computing Conference provides the knowledge and inspiration you need to drive innovation and succeed in the quantum computing era."
+    },
+    {
+        "id": 20,
+        "image": "https://ibb.co/jHWDNvP",
+        "conference_date": "2025-11-20",
+        "conference_time": "09:00 AM - 06:00 PM",
+        "location": "Tech Expo Center, San Francisco, CA",
+        "name": "5G Summit",
+        "details": "The 5G Summit is the premier event for telecommunications professionals, network engineers, and industry leaders to explore the latest trends and innovations in 5G technology. Hosted in the heart of Silicon Valley, this summit offers a unique opportunity to learn from leading 5G experts, engage in hands-on workshops, and network with peers from the telecommunications community. From 5G infrastructure and network slicing to edge computing and IoT connectivity, the summit covers a wide range of topics relevant to 5G professionals. Join us for keynote presentations, technical sessions, and panel discussions to gain practical insights and best practices for deploying and optimizing 5G networks. Whether you're a telecom operator, network architect, or IoT developer, the 5G Summit provides the knowledge and networking opportunities you need to drive innovation and succeed in the 5G era."
+    }
+]
