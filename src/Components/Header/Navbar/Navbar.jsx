@@ -1,25 +1,25 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
     const navLink = (
         <>
-            <li>
+            <li className="text-white">
                 {" "}
                 <NavLink to={"/"}>HOME</NavLink>
             </li>
-            <li>
+            <li className="text-white">
                 {" "}
                 <NavLink to={"/about"}>ABOUT US</NavLink>
             </li>
-            <li>
+            <li className="text-white">
                 {" "}
                 <NavLink to={"/events"}>EVENTS</NavLink>
             </li>
-            <li>
+            <li className="text-white">
                 {" "}
                 <NavLink to={"/blog"}>BLOG</NavLink>
             </li>
-            <li>
+            <li className="text-white">
                 {" "}
                 <NavLink to={"/contact"}>CONTACT US</NavLink>
             </li>
@@ -27,23 +27,7 @@ const Navbar = () => {
     );
     return (
         <div>
-            {/*  <div className="grid grid-cols-2 ">
-                <div className="h-full relative -bottom-56 -left-60">
-                    <img
-                        className="col-span-1 "
-                        src="https://thepixelcurve.com/html/exvent/dest/assets/images/shape/hero_shape2.png"
-                        alt=""
-                    />
-                </div>
-                <img
-                    className="col-span-1"
-                    src="https://thepixelcurve.com/html/exvent/dest/assets/images/shape/hero_shape1.png"
-                    alt=""
-                />
-            </div>
-            <div className="bg-cover h-[100vh] bg-gradient-to-r from-indigo-900 to-violet-900 opacity-50 relative -top-[101vh] z-10"></div> */}
-
-            <div className="navbar  mx-auto absolute z-20 top-0">
+            <div className="navbar mx-auto absolute z-50 top-0">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div
@@ -68,18 +52,22 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+                            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-600 rounded-box w-52"
                         >
                             {navLink}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">BOKA Chad</a>
+                    <a className="btn btn-ghost text-xl text-white">
+                        BOKA Chad
+                    </a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">{navLink}</ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn btn-secondary">LOGIN</a>
+                    <Link to={"/login"} className="btn btn-secondary">
+                        LOGIN
+                    </Link>
                 </div>
             </div>
         </div>
